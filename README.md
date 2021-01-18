@@ -9,4 +9,5 @@ run-bash.sh execute an interative container.
 run.sh up the container, execute lambda-test.py and down container.  
 
 ---
-![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")
+<!-- Pit i Collons -->
+![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)
