@@ -4,3 +4,5 @@ numpy
 pytz
 boto3
 xlrd
+pivottablejs
+ipython
