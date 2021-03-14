@@ -1,8 +1,16 @@
+#AWS lambda environtment
 pandas
 pyarrow
 numpy
 pytz
 boto3
 xlrd
-pivottablejs
+
+# Module for dataframe visualization https://pbpython.com/dataframe-gui-overview.html
 ipython
+pivottablejs    # https://github.com/nicolaskruchten/pivottable
+dtale           # https://github.com/man-group/dtale
+#swifter         # https://github.com/man-group/dtale#using-swifter
+tabloo          # https://github.com/bluenote10/tabloo
+pandas-profiling # https://github.com/pandas-profiling/pandas-profiling
+datapane # https://github.com/datapane/datapane https://datapane.com/ https://www.xlwings.org/blog/reporting-with-python
